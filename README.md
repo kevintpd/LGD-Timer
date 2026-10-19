@@ -1,4 +1,4 @@
-# LGD Timer · 讨论计时
+# LGD Timer · 无领导讨论计时工具
 
 用于小组讨论、轮流发言和面试练习的 iPhone / Apple Watch 计时应用，使用 SwiftUI 构建。
 
