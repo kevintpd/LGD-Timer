@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Xcode local state
+xcuserdata/
+*.xcuserstate
+
+# Build products
+DerivedData/
+build/
+*.xcarchive
+*.ipa
+*.dSYM/
+*.dSYM.zip
+
+# Local secrets and signing material
+.env
+.env.*
+!.env.example
+*.p12
+*.p8
+*.mobileprovision
+*.provisionprofile
