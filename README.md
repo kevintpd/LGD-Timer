@@ -71,7 +71,6 @@ LGD Timer/                  # Apple Watch 应用（SwiftUI / WatchKit）
 LGD Timer iPhone/           # iPhone 应用（SwiftUI / SwiftData）
 LGD Timer.xcodeproj/        # Xcode 工程与共享 Scheme
 docs/screenshots/          # 应用截图及完整图集
-docs/GITHUB_UPLOAD.md      # 首次发布到 GitHub 的操作指南
 ```
 
 Apple Watch 使用 AppStorage 保存自定义时限和编码后的历史记录；iPhone 使用 AppStorage 保存自定义时限，使用 SwiftData 保存讨论记录。
